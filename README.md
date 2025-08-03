@@ -85,6 +85,61 @@ Henüz Uygulamaya başlanmadı veri seti araştırılıyor
   - Takım içinde görev dağılımı daha net yapıldı.
   - Web tasarım ve uygulama geliştirme süreçlerinin 3. sprintte yürütülmesine karar verildi.
   - Takım içi iletişimin ve teknik destek paylaşımının artırılması gerektiği belirtildi.
+ 
+## 🚀 Sprint 3 – Uygulama Geliştirme ve Entegrasyon
+
+### 🎯 Sprint Hedefi
+Bu sprintte odak noktası, tasarlanan yapay zeka tabanlı test üretici platformunun temel işlevselliklerinin kodlanması ve backend ile frontend entegrasyonunun sağlanmasıydı.
+
+---
+
+### 🔨 Yapılan Geliştirmeler
+
+- Web arayüzünde **"Test Oluştur"**, **"Testlerim"**, **"İstatistikler"** sekmeleri tamamlandı.  
+- RESTful API bağlantısı kurularak frontend arayüzü, backend servisleriyle entegre edildi.  
+- Kullanıcı test oluşturduğunda, yapay zeka tarafından test üretimi backend üzerinden başarıyla gerçekleştirildi.  
+- JSON formatında gelen test verileri UI üzerinde doğru şekilde listelendi.  
+- **Test çözme modülü** geliştirildi: kullanıcı yanıtları API’ye gönderilerek sonuçlar hesaplandı ve arayüzde gösterildi.
+
+---
+
+### 🧮 Sprint Tahmini Puanı
+**150 Puan**
+
+---
+
+### 🕘 Daily Sprint Toplantıları
+Her sabah saat **10:00**'da Google Meets üzerinden düzenli olarak gerçekleştirilmiştir.
+
+---
+
+### 📦 Ürün Durumu
+
+- Uygulama temel işlevselliklerini kazandı.  
+- Veri toplama ve model eğitimi sonrası test üretimi özelliği canlıya alındı.  
+
+**Kalan işler:**
+- Kullanıcı oturum sistemi  
+- Test paylaşma özelliği  
+- Gelişmiş istatistik ekranı  
+
+---
+
+### ✅ Sprint Review
+
+- UI üzerinden başarılı şekilde test oluşturma ve çözme işlemleri tamamlandı.  
+- Model performansı değerlendirildi ve iyileştirme için parametre optimizasyonu not edildi.  
+- UI görsel geri bildirimlerine göre iyileştirme önerileri alındı.
+
+---
+
+### 🔄 Sprint Retrospective
+
+- Görev takibi artık **birey bazlı değil, modül bazlı** şekilde yapılacak.  
+- Web tasarımı, model geliştirme ve kullanıcı deneyimi için **ayrı task board'lar** oluşturulacak.  
+- API'den gelen JSON yanıtlarının frontend'de daha sağlam işlenmesi için **validasyon** eklenecek.  
+- Dokümantasyon eksikleri bir sonraki sprintte tamamlanacak şekilde planlandı.
+
 
 
 
